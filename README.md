@@ -43,6 +43,13 @@ A sophisticated tic-tac-toe game featuring advanced AI powered by machine learni
 - Windows/Linux/macOS
 - GPU recommended for training (optional for gameplay)
 
+### Contributeurs
+- [TatumLn](https://github.com/TatumLn): Front-End && OPS & Game-Logic
+- [Devkalix](https://github.com/Devkalix): Front-End & Game-Logic
+- [RatsirofoFenosoa-Git](https://github.com/RatsirofoFenosoa-Git): Back-End & Game-Logic
+- [toby7431](https://github.com/toby7431): Back-End & Game-Logic
+- [DADDYB0Y](https://github.com/DADDYB0Y): Full-Stack & Game-Logic
+
 ### Installation
 
 ```bash
@@ -52,10 +59,3 @@ cd tic_tac_toe_ai
 
 # Install required Python packages
 pip install -r requirements.txt
-
-Contributeurs
-- [TatumLn](https://github.com/TatumLn): Front-End && OPS & Game-Logic
-- [Devkalix](https://github.com/Devkalix): Front-End & Game-Logic
-- [RatsirofoFenosoa-Git](https://github.com/RatsirofoFenosoa-Git): Back-End & Game-Logic
-- [toby7431](https://github.com/toby7431): Back-End & Game-Logic
-- [DADDYB0Y](https://github.com/DADDYB0Y): Full-Stack & Game-Logic
