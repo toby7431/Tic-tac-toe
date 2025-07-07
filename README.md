@@ -49,6 +49,7 @@ A sophisticated tic-tac-toe game featuring advanced AI powered by machine learni
 - [RatsirofoFenosoa-Git](https://github.com/RatsirofoFenosoa-Git): Back-End & Game-Logic
 - [toby7431](https://github.com/toby7431): Back-End & Game-Logic
 - [DADDYB0Y](https://github.com/DADDYB0Y): Full-Stack & Game-Logic
+- [Tiji-Tahina](https://github.com/Tiji-Tahina): Back-End & Game-Logic
 
 ### Installation
 
